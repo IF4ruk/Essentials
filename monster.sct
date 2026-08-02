@@ -1,0 +1,401 @@
+type	name	start_base_level
+1	Draco	5
+2	Devilco	5
+3	Beasco	5
+4	Birdco	5
+5	Inseco	5
+6	 Neo Wiesha	75
+7	Fake Banshe	105
+8	Fake GateToDeath	135
+9	Pikey	6
+10	Fake KalinAngel	155
+11	Fake Columbus	165
+12	Gold Piggy	55
+13	Imon	10
+14	Gold Piggy	85
+15	Gold Piggy	115
+16	Gold Piggy	145
+17	Noa	14
+18	Gold Piggy	175
+21	Draki	18
+25	Gago	22
+29	Mitra	40
+33	Haedragon	49
+37	Lausta	68
+41	BattleDragon	56
+45	Greentail	72
+49	Rurabbi	6
+53	Bebe	10
+57	Buma	14
+61	PoochDev	18
+65	ArnDev	38
+69	Mahollow	41
+73	MysticYoyo	55
+77	Skullwiser	58
+81	Pumped	72
+85	Rabbo	6
+89	Goa	10
+93	Nosie	14
+97	CryBop	18
+101	Rabie	36
+105	Torra	54
+109	Rrainova	67
+113	Chicoe	6
+117	Caminho	10
+121	Pengie	14
+125	MelonFlyer	18
+129	HighLife	34
+133	Bubri	38
+137	NightIme	41
+141	Synicks	50
+145	Thunderbird	68
+149	Pee	6
+153	Mosky	18
+157	Bookworm	10
+161	SnakeEye	14
+165	PayaPaya	36
+169	Asakayza	57
+173	BeetlePete	73
+177	Turton	22
+181	Cowty	44
+185	OneStump	47
+189	Mameo	14
+193	Yeon	22
+194	Kurma	30
+195	SQ-21	28
+196	Amazonez	48
+197	DooDoo	22
+198	Cabbager	22
+199	BellyLady	26
+200	DayCrawl	47
+201	Manglock	6
+202	Crutchie	26
+203	Nars	30
+204	Flowco	5
+205	Mysco	5
+206	Metaco	5
+207	SilverLausta	78
+208	WildBuma	32
+209	Tomated	82
+210	Manta	51
+211	Phoenix	78
+212	MintRabie	48
+213	Bigon	26
+214	Deepsuffer	34
+215	Marogni	22
+216	Pirosty	26
+217	Monggyal	30
+218	Kugutu	85
+219	SunEack	26
+220	CheezDogg	30
+221	MimiEack	40
+222	MummyEack	42
+223	Liddy	50
+224	Clawless	63
+225	Starbird	26
+226	ForceFlyer	30
+227	Oscar	45
+228	NTV	30
+229	Baccho	41
+230	Bolarish	44
+231	Delcoi	50
+232	Jamoo	10
+233	Beanie	18
+234	TimTona	36
+235	SpineMush	40
+236	Douda	44
+237	Lemoni	42
+238	Pana	47
+239	Yassie	50
+240	Cactusing	53
+241	Tenkaki	63
+242	Chikaki	66
+243	Ukki	6
+244	NortsNcross	10
+245	RingWorm	14
+246	Ping	18
+247	Bangie	22
+248	Soo	26
+249	Sumping	30
+250	Snogyun	104
+251	Chowie	65
+252	Metalocks	6
+253	BigMaq	10
+254	Nippa	14
+255	Oilpot	18
+256	MechaBall	22
+257	Waterball	26
+258	Bota	30
+259	TankTortus	45
+260	Gamerika	70
+261	Blackened	88
+262	MoonRaid	32
+263	ArmaBall	46
+264	Dashabell	89
+265	Wiesha	69
+266	BattleRoyale	66
+267	WingCrusher	89
+268	Soulbreaker	88
+269	Malreino	46
+270	Ballza	80
+271	SwordTail	76
+272	Monoeye	40
+273	Dr.Calvin	50
+277	MintClaw	93
+278	HornMameo	35
+279	BomberGun	118
+280	GunSmash	137
+281	NeoSoul	100
+282	WingStormer	101
+283	MadTailor	88
+284	BladeDasha	103
+285	Garugon	200
+287	BlazeRhino	113
+288	Ki-Ryu	135
+289	FireDuke	155
+293	Bamudar	118
+294	Ziller	138
+296	MacT-Bone	121
+297	ArmIris	193
+298	CrimsonMetal	110
+299	Ordevil	108
+300	Garlingz	190
+301	Mr.Rupert	141
+302	NeoSilver	98
+303	EvilClaw	120
+304	NeoMad	127
+305	NeoOrdevil	133
+306	KillerZill	158
+307	BomberGunMk2	156
+308	SirRupert	159
+309	Shin-Chikaki	101
+310	InfernoDuke	172
+311	PumpedCurse	82
+312	TorraX	102
+313	WingThunder	140
+314	KillerPete	100
+315	WildBallza	125
+316	InsaneDoctor	87
+318	KalinAngel	187
+319	GateA	90
+320	GateB	90
+322	BloodStinger	94
+323	QueenSting	162
+324	Pioki	160
+325	Rhine	139
+326	MantyPlant	96
+327	AncientKilla	58
+328	Dragoer	89
+329	PhantomWing	99
+330	Scorpasis	174
+331	SunFlower	134
+332	Stoner	92
+333	KingDusty	85
+335	Seki-Shu-Ryu	122
+336	DevilStone	119
+337	Bluemetal	173
+338	DevilDusty	126
+339	KingRhine	171
+340	HornKing	67
+341	AquaPing	58
+350	GreenTravel	114
+351	Wagstuff	109
+352	WhiteWags	124
+353	RockyRush	118
+354	Ayaya	95
+355	Gokuma	98
+359	MungMungee	32
+360	DeadlyBamude	145
+361	DarkTravel	147
+362	XT-Bone	165
+363	BomberGunX	180
+364	Pioking	184
+365	FrozenRhino	183
+366	BlueGarugon	195
+367	Saruff	146
+368	RedLeaf	172
+369	ShadowMagic	180
+370	Dalsipper	185
+371	MixDestroyer	200
+372	Fairudo	140
+373	NeoGokuma	127
+374	NeoAyaya	121
+375	Siper	122
+376	Maleki	125
+377	Eldering	160
+378	SnowFoxy	132
+379	TheUnknown	134
+380	Harpy	137
+381	Elder	146
+382	GateToDeath	170
+383	SnowBall	146
+384	Griffin	150
+385	Siperous	155
+386	Banshee	157
+412	Griffin	150
+418	GateToDeath	170
+419	Mint Lion	126
+420	Binocchio	130
+421	Blue Piggy	145
+422	Neo Devil St	140
+423	Mint LionKin	155
+424	Cupid	180
+425	Silver Kun	164
+426	Mintmal	173
+427	Neo Seki-Shu	160
+428	Neo SunFlowe	166
+429	Ninja Girl	190
+430	Wind Girl	182
+431	Dark Pitt	186
+432	Neo Mint Lio	182
+433	Neo Banshee	181
+433	Neo Banshee	181
+488	Vanyah	30
+489	Vanyah	50
+490	Vanyah	50
+491	Vanyah	90
+492	Vanyah	110
+493	Vanyah	130
+494	Fennecus	130
+495	Strigidae	130
+496	MechaOstrich	130
+497	Mutant Douda	44
+498	Synicks	50
+499	Liddy	50
+500	Delcoi	50
+501	Cactusing	51
+537	Fennecus	50
+538	Fennecus	90
+539	Strigidae	50
+540	Strigidae	90
+541	MechaOstrich	50
+542	MechaOstrich	90
+545	Baby Puffy	32
+549	Soul Eater	200
+550	NipperKing	200
+551	Blue Kime	110
+552	New Delcoy	120
+553	Palm Boy	137
+554	New Under Gi	145
+555	Blue Harpy	155
+556	Black Mir	165
+557	Blood Shadow	170
+558	New Mintmeul	178
+559	Blue Saurph	181
+560	Old Metal	185
+561	New Fire Dra	185
+633	DustyElder	160
+803	Fire HornMam	5
+824	Braki	111
+825	Punchdra	175
+826	Boardgon	125
+827	PuppleQoon	170
+828	armored	128
+829	Dark Qoon	185
+831	Loisy	140
+832	Wypin	143
+835	Drilldra	158
+836	DJBraki	155
+837	FrankenNo1	150
+838	Succubus	112
+839	HellBoy	122
+841	Qoomtra	185
+842	Failbizu	140
+843	Onestep	155
+844	BattleAmazonez	135
+845	Honmaleki	130
+846	FrankenNo2	160
+847	FrankenNo3	150
+848	Avenger	185
+849	BoneQoomtra	162
+850	Nauren	140
+851	Cabit	110
+853	FairudoJaune	156
+854	MerryBongBong	125
+855	MadOrchid	188
+856	TinkerBell	185
+857	PetitTenkaki	165
+858	PetitChikaki	155
+859	RFairudo	185
+860	PBanshee	121
+861	BDevil Wing	148
+862	RBanshee	155
+863	YBanshee	185
+864	KingRookPawn	110
+865	TopDrum	150
+867	HellCrown	117
+868	Persoz	183
+869	BigHead	170
+870	Hatti	127
+871	Giant	151
+872	BoxingTower	125
+873	SwordTower	155
+874	PDevil Wing	183
+875	TopCymbals	185
+1000	SuperCat	170
+1001	Malmon	126
+1002	Magician	141
+1003	MadCow	188
+1004	Columbus	165
+1005	NepheleMan	115
+1006	CutieCat	200
+1007	MalmonFury	146
+1008	OldMagician	177
+1009	MilkCow	156
+1010	LittleColumbus	126
+1011	LightingMan	190
+1013	SoldierHawk	140
+1014	FireBird	123
+1015	ChickenFighter	154
+1016	RedBalloon	110
+1017	PelicanCrew	183
+1018	Persona	170
+1019	GladyHawk	170
+1020	YellowBalloon	132
+1021	GreenBalloon	166
+1022	BlueBalloon	150
+1023	PersonaSoul	200
+1024	OrangeBalloon	151
+1025	PurpleBalloon	155
+1026	HandBomb	116
+1027	Hornz	133
+1028	Poisoner	152
+1029	PunchLava	112
+1030	Beetleger	130
+1031	BeetleClass	162
+1032	ChampLava	174
+1033	GauntletBomb	160
+1034	AlertSpider	173
+1035	MegaHornz	186
+1036	CloneBeetle	147
+1037	BeetleKnight	190
+1039	Shield	135
+1040	PlugNSocket	155
+1041	Speenity	170
+1042	TweesToonga	167
+1043	MiniVulcan	137
+1044	SignalNeon	155
+1045	Spiker	145
+1046	LampNSocket	121
+1047	Blacknity	190
+1048	DarkToonga	188
+1049	NeoVulcan	175
+1050	Infamous	168
+1052	Chuck	171
+1053	Jack	143
+1054	Jone	114
+1055	PelicanDuo	161
+1186	Vanyah	150
+1187	Fennecus	150
+1188	Strigidae	150
+1189	MechaOstrich	150
+1195	Strigidae	30
+1196	Strigidae	70
+1197	Strigidae	110
+1198	Fennecus	30
+1199	Fennecus	70
+1200	Fennecus	110
+1201	MechaOstrich	30
+1202	MechaOstrich	70
+1203	MechaOstrich	110
+1247	FlameSunFlowe	181
